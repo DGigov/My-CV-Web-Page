@@ -1,0 +1,82 @@
+<style type="text/css">
+.d{
+}
+
+body 
+		{
+		background-image: url('clouds.jpg');
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+		background-color:#2588CC;
+  		}
+div
+		{
+		text-align:center;
+		}
+#top
+		{
+		padding:0px 0px 0px 0px;
+		margin: 0px 0px 0px 0px;
+		}
+#content
+		{
+		border:1px solid #FFA500;
+		padding:0;
+		margin:0;
+		width: 750px;
+		height: 1020px;
+		}
+#menu
+		{
+		border:0px;
+		margin-left:auto; 
+    	margin-right:auto;
+		}
+ul
+		{
+		float:left;
+		width:100%;
+		padding:0;
+		margin:0;
+		list-style-type:none;
+		align: center;
+		}
+li 
+		{
+		display:inline;
+		}
+a.but
+		{
+		float:left;
+		width:6em;
+		text-decoration:none;
+		color:white;
+		background-color:purple;
+		padding:0.2em 0.6em;
+		border-right:1px solid white;
+		transition-property:width;
+		transition-duration:2s;
+		}
+a.but:hover 
+		{
+		background-color:#FFA500;
+		width:10em;
+		}
+a.butt
+		{
+		text-align: center;
+		float:right;
+		width:6em;
+		text-decoration:none;
+		color:white;
+		background-color: #5780FF ;
+		padding:0.2em 0.6em;
+		border-right:1px solid white;
+		}
+a.butt:hover 
+		{
+		background-color:#FFA500;
+		}
+
+			
+</style>
